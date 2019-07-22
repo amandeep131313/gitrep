@@ -31,7 +31,7 @@ class  ProductDescription extends React.Component {
             this.props.data.items.forEach((productinfo)=>{
                 rows.push(
                         <div className="col-md-4">
-                        <div class="card" onClick={e=>this.showModal(e,productinfo.description)} >
+                        <div class="card">
                                      <div class="card-body">
                                    <div className="card-body-model text-center">
                                       <h2>{productinfo.model}</h2>
