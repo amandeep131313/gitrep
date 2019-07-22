@@ -1,8 +1,6 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -10,4 +8,29 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+.Shopping-title{
+  margin: 20px;
+  color:cornflowerblue;
+}
+.card{
+  height: 400px;
+  background-color: white
+}
+.card-body-model{
+  color:cornflowerblue;
+  margin-bottom: 20px
+}
+.type-of-model{
+  border-bottom: 1px solid #D3D3D3;
+  margin-bottom: 20px;
+  margin-top:20px
+}
+.card-description{
+  margin-top:30px;
+  margin-bottom:30px 
+}
+.showmodal{
+  width: 100px;
+  top:50px
 }

@@ -1,0 +1,60 @@
+[{
+    "product":"mobile",
+     "items":[
+         {
+             "model":"Iphone XR",
+             "price":"200$",
+             "description":"This is Iphone model"
+         },
+         {
+            "model":"OnePlus 10",
+            "price":"100$",
+            "description":"This is OnePlus model"
+        },
+        {
+            "model":"Xiaomi Mi",
+            "price":"50$",
+            "description":"This is XiaoMi model"
+        }
+     ]
+},
+{
+    "product":"laptop",
+     "items":[
+         {
+             "model":"Dell Xps",
+             "price":"200$",
+             "description":"This is Iphone model"
+         },
+        {
+            "model":"Lenevo Think Pad",
+            "price":"50$",
+            "description":"This is XiaoMi model"
+        }
+     ]
+}
+,
+{
+    "product":"laptop",
+     "items":[
+         {
+             "model":"Dell Xps",
+             "price":"200$",
+             "description":"This is Dell model"
+         },
+        {
+            "model":"Lenevo Think Pad",
+            "price":"50$",
+            "description":"This is Lenevo Think model"
+        }
+     ]
+}
+
+
+
+
+
+
+
+
+]
